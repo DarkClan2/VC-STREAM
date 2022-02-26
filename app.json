@@ -1,9 +1,9 @@
 {
   "name": "VCPlayBot",
-  "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "logo": "https://te.legra.ph/file/876b015f122fe8cbca685.jpg",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by SLBOTS.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://github.com/DarkClan2/VC-STREAM",
   "stack": "container",
   "buildpacks": [
    {
